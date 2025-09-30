@@ -1,0 +1,71 @@
+{
+  "term": "Fall",
+  "year": "2014",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Language"
+    ],
+    [
+      "Humanities",
+      "Linguistics"
+    ],
+    [
+      "Social Science",
+      "Anthropology"
+    ],
+    [
+      "Social Science",
+      "Communication"
+    ],
+    [
+      "Social Science",
+      "Sociology"
+    ],
+    [
+      "Teaching and Education"
+    ],
+    [
+      "Teaching and Education",
+      "Curriculum and Teaching"
+    ],
+    [
+      "Teaching and Education",
+      "Educational Technology"
+    ]
+  ],
+  "legacy_uid": "73261908-f844-60a4-f8f5-cffd9701c186",
+  "instructors": {
+    "content": [
+      "7768c26c-eca1-2f3a-74e6-dda1ddb5c354"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a83a547e-9d5a-0481-2889-a3d6f1d25ac2",
+    "website": "21a-150-teaching-and-learning-cross-cultural-perspectives-fall-2014"
+  },
+  "course_title": "Teaching and Learning: Cross-Cultural Perspectives",
+  "hide_download": true,
+  "course_description": "This course explores the diverse ways that people teach and learn\u2014in different countries, in different disciplines, and in different subcultures. We will discuss how theories of learning can be applied to a variety of hands-on, in-class learning activities. We compare schooling to other forms of knowledge transmission from initiation and apprenticeship to recent innovations in online education such as MOOCs. Students will employ a range of qualitative methods in conducting original research on topics of their choice.\n",
+  "department_numbers": [
+    "21A"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21A.150",
+  "course_image_thumbnail": {
+    "content": "15adb411-424d-d695-3588-51d07d69fae0",
+    "website": "21a-150-teaching-and-learning-cross-cultural-perspectives-fall-2014"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "29dd7904-5740-42d8-9a1c-a65e350f1a67",
+  "site_short_id": "21a.150-fall-2014",
+  "site_url_path": "courses/21a-150-teaching-and-learning-cross-cultural-perspectives-fall-2014",
+  "title": "Course Metadata"
+}

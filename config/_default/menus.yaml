@@ -1,0 +1,29 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 52a8221c-1ab8-c053-1498-2e3ae6fa3416
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 46b01b3f-fe62-e4c2-cc59-1bf9c26048b5
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 247fb521-3bfb-cc8d-a615-aa41e1c620a9
+  name: Readings, Films, and Activities
+  pageRef: /pages/readings-films-and-activities
+  weight: 30
+- identifier: 690da65b-95d8-948f-f435-1c15872746ce
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 40
+- identifier: 3e7337ea-510e-629a-7ce3-5d2f91968103
+  name: Response Papers
+  pageRef: /pages/assignments/response-papers
+  parent: 690da65b-95d8-948f-f435-1c15872746ce
+  weight: 50
+- identifier: 2ea3775e-8dff-6849-e9d6-4ff4ef808ccd
+  name: Research Project
+  pageRef: /pages/assignments/research-project
+  parent: 690da65b-95d8-948f-f435-1c15872746ce
+  weight: 60
